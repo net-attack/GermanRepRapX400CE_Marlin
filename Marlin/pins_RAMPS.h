@@ -73,7 +73,7 @@
 #define X_MAX_PIN         	-1
 #define Y_MIN_PIN          14
 #define Y_MAX_PIN          -1
-#define Z_MIN_PIN          19
+#define Z_MIN_PIN          18
 #define Z_MAX_PIN          -1
 
 
