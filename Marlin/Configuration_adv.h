@@ -79,7 +79,7 @@
   #define THERMAL_PROTECTION_HYSTERESIS 4     // Degrees Celsius
 
   /**
-   * Whenever an M104, M109, or M303 increases the target temperature, the
+   * Whenever an M104, M109, or M303 increases the target temperature, thehttps://www.youtube.com/watch?v=0USm9g2YChw
    * firmware will wait for the WATCH_TEMP_PERIOD to expire. If the temperature
    * hasn't increased by WATCH_TEMP_INCREASE degrees, the machine is halted and
    * requires a hard reset. This test restarts with any M104/M109/M303, but only
